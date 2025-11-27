@@ -3,7 +3,6 @@
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 GraphSonix converts **graph structures into music** using Node2Vec embeddings, random walks, and a custom audio synthesizer.  
 Think: *graph theory meets music production*, but slightly unhinged.
