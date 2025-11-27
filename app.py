@@ -379,7 +379,7 @@ elif page == "Studio":
                         unsafe_allow_html=True
                     )
                     
-                    st.markdown("<h4 style='color:#94a3b8;'>Add Nodes to Track</h4>", unsafe_allow_html=True)
+                    st.markdown("</br>", unsafe_allow_html=True)
                     audio_bytes = make_wav(synth(freq, dur, vol))
                     st.audio(audio_bytes, format="audio/wav")
             
@@ -588,4 +588,5 @@ This is the idea behind Node2Vec and Word2Vec.
 Because random walks explore different paths through the network,
 each refresh gives a new melody that reflects the graph's structure.
 """)
+
 
