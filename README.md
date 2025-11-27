@@ -7,6 +7,8 @@
 GraphSonix converts **graph structures into music** using Node2Vec embeddings, random walks, and a custom audio synthesizer.  
 Think: *graph theory meets music production*, but slightly unhinged.
 
+**Demo:** https://graphsonix-uhplphnz8ad6fdhnado2rk.streamlit.app/
+
 ---
 
 ## 🎵 Why GraphSonix?
