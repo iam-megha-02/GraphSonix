@@ -28,26 +28,26 @@ Topology never sounded so weirdly satisfying.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🎧 Quick Node Player
+### Quick Node Player
 Play nodes like sound samples.  
 Every node = unique frequency, duration, volume.
 
-### 🎼 Custom Track Composer
+### Custom Track Composer
 - Add nodes (repeat allowed)  
 - Collapsible node-details view  
 - Total track duration limit  
 - Live warnings when track overflows  
 - Export full WAV audio  
 
-### 📤 Upload & Visualize Graphs
+### Upload & Visualize Graphs
 - Accepts CSV, TXT, JSON  
 - Automatic parsing  
 - Interactive PyVis visualization  
 - Node highlights & path colors  
 
-### 🧠 “Math Behind It”
+### “Math Behind It”
 Explained for humans, not mathematicians.
 
 ---
